@@ -3,7 +3,7 @@
 Summary:	Regex manipulation Python library	
 Name:		python-%{module_name}
 Version:	1.0.5
-Release:	%mkrel 1
+Release:	2
 Source0:	http://cheeseshop.python.org/packages/source/h/%{module_name}/%{module_name}-%{version}.tar.gz
 License:	GPLv2
 Group:		Development/Python
